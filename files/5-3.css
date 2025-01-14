@@ -1,0 +1,147 @@
+
+.headerDiv {
+    display: inline-flex;
+}
+
+.headerImg {
+    width: 1200px;
+}
+
+header {
+    display: inline-flex;
+    justify-content: flex-end;
+}
+
+.headerDiv {
+    display: flex;
+    flex-direction: row;
+    background-color: #E7EEFF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 1250px;
+    justify-content: space-between;
+    width: 98.8vw;
+}
+
+.searchDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+}
+
+.userDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+}
+
+.logoDiv {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 24px;
+    background-color: #E7EEFF;
+    align-items: center;
+    width: 25px;
+    padding: 12px 28px;
+    height: 100%;
+}
+
+.img {
+    width: 24px;
+}
+
+.bigImg {
+    width: 48px;
+    height: 48px;
+}
+
+.justDiv {
+    background-color: #E7EEFF;
+}
+
+main {
+    display: inline-flex;
+}
+
+.everything {
+    display: flex;
+    flex-direction: column;
+}
+
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 42px;
+}
+
+.buttonDiv {
+    display: flex;
+    flex-direction: row;
+    width: 1250px;
+    justify-content: flex-end;
+    gap: 30px;
+    padding-top: 42px;
+}
+
+.buttonStyles {
+    color: #323232;
+    font-size: 16px;
+    padding: 8px 24px 8px 12px;
+    border: none;
+    border-radius: 16px;
+    background-color: #E7EEFF;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+}
+
+.holeHouseDiv{
+    display: flex;
+    flex-direction: column;
+    gap: 42px;
+}
+
+.firstRowOfHouses {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 42px;
+}
+
+.firsthouse {
+    display: flex;
+    flex-direction: column;
+    background-color: #E7EEFF;
+    border-radius: 24px;
+}
+
+.h2Styles {
+    color: #000;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.spanStyles {
+    color: #606060;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.houseTextDiv {
+    padding: 8px 12px;
+}
+
+.secondRowDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 42px;
+    padding-bottom: 32px;
+}
+
+.navDiv {
+    height: 945px;
+}
